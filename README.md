@@ -76,3 +76,6 @@ Type :help for more information.
 
 scala>
 ```
+
+## LICENSE
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/canhtran/docker-spark/blob/master/LICENSE) file for details
