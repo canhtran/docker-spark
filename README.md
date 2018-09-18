@@ -1,5 +1,8 @@
 # docker-spark
 
+[![](https://images.microbadger.com/badges/image/canhtran/docker-spark.svg)](https://microbadger.com/images/canhtran/docker-spark "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/canhtran/docker-spark.svg)](https://microbadger.com/images/canhtran/docker-spark "Get your own version badge on microbadger.com")
+
 Dockerfile for **Apache Spark** 
 The image is available and ready to pull directly from [docker hub](https://hub.docker.com/r/canhtran/docker-spark/)
 
